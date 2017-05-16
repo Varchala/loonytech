@@ -1,0 +1,79 @@
+*{
+   font-family: lato;
+}
+
+header {
+   background-color: 		#F08080;
+   font-size: 350%;
+   color: aliceblue;
+   text-align: center;
+   box-sizing: border-box;
+}
+
+
+/* form-page */
+
+#bodyy {
+
+
+}
+
+#formy {
+   background-color: aliceblue;
+   color: black;
+   height: inherit;
+   width: inherit;
+   margin-top: 5em;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 5em;
+   box-sizing: content-box;
+   text-align: inherit;
+   border-radius: 20px;
+
+}
+
+#space{
+
+   padding: 50px;
+   margin: 50px;
+
+
+}
+
+#signup{
+
+   font-weight: 200%;
+
+}
+/**/
+
+
+/* form page */
+
+#sed {
+   margin: 20 50 20 50;
+}
+
+
+
+input[type="submit"] {
+   margin-top: 30px;
+   width: 120px;
+   height: 30px;
+   background: #16a085;
+   color: #FFF;
+   border: none;
+   border-radius: 2px;
+
+   font-weight: 500;
+   transition: 0.1s ease;
+}
+
+input[type="submit"]:hover,input[type="submit"]:focus {
+   opacity: 0.8;
+}
+
+input[type="submit"]:active {
+   transition: 0.1s ease;
+}
